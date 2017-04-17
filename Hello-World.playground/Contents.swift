@@ -2,6 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground, Test"
+var str = "Hello, playground"
 
 print(str)
