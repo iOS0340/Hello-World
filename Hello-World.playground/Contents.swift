@@ -5,8 +5,3 @@ import UIKit
 var str = "Hello, playground, Test"
 
 print(str)
-<<<<<<< Updated upstream
-=======
-
-print("Next step")
->>>>>>> Stashed changes
